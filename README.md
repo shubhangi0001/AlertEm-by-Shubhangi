@@ -1,4 +1,4 @@
-# flutter_application_alertem
+# AlertEm Project by Shubhangi Goswami
 
 A new Flutter project.
 
